@@ -1,6 +1,6 @@
 {
   "name": "kfstudio",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@kfcoding/kfeditor": "0.0.16",
