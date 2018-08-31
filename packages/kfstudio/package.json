@@ -1,0 +1,39 @@
+{
+  "name": "kfstudio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@kfcoding/kfeditor": "0.0.16",
+    "babel-plugin-import": "^1.8.0",
+    "css-loader": "^1.0.0",
+    "kfstudio-page": "^1.0.0",
+    "mobx": "^5.0.3",
+    "mobx-react": "^5.2.3",
+    "mobx-state-tree": "^3.0.2",
+    "re-resizable": "^4.7.1",
+    "react": "^16.4.1",
+    "react-app-rewire-mobx": "^1.0.8",
+    "react-app-rewired": "^1.5.2",
+    "react-codemirror": "^1.0.0",
+    "react-contenteditable": "^2.1.5",
+    "react-dnd": "^5.0.0",
+    "react-dom": "^16.4.1",
+    "react-draggable": "^3.0.5",
+    "react-flexbox": "^3.1.4",
+    "react-grid-layout": "^0.16.6",
+    "react-rnd": "^9.0.1",
+    "react-scripts": "1.1.4",
+    "react-split-pane": "^0.1.82",
+    "react-tabs": "^2.2.2",
+    "styled-components": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "peerDependencies": {
+    "antd": "^3.7.3"
+  }
+}
