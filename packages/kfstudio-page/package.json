@@ -1,6 +1,6 @@
 {
   "name": "@kfstudio/page",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "styled-components": "^3.4.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
